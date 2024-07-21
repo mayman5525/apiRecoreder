@@ -17,8 +17,12 @@
 You can now replay the recorded requests or export them for further analysis.
 ## features 
 1.Record API requests and responses
+
 2.Replay recorded requests
+
 3.Customize request headers and payloads
+
 4.Export recordings to various formats (e.g., JSON, CSV)
+
 ## Contributing
 We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request on our GitHub repository.
