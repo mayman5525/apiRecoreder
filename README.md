@@ -1,4 +1,4 @@
-# apiRecoreder
+# Api-Recoreder
 ## Usage
 1.Once the application is up and running, you can start recording API requests by following these steps:
 
@@ -15,7 +15,7 @@
 7.Click on the "Stop" button to stop recording.
 
 You can now replay the recorded requests or export them for further analysis.
-## features 
+## Features 
 1.Record API requests and responses
 
 2.Replay recorded requests
